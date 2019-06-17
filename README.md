@@ -3,10 +3,10 @@ Find the correct answer among those proposed
 
 Edit feature will be implemented in next release
 
-## demo:
+## Demo:
 https://dar1apetrova.github.io/quiz-app-on-vue/
 
-## using technologies:
+## Using technologies:
 ```
 vue.js, vue cli 3
 bootstrap (via cdn)
