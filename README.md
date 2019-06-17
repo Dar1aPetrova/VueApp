@@ -1,5 +1,11 @@
-# app
-##using technologies:
+# App description
+Find the correct answer among those proposed
+Edit feature will be implemented in next release
+
+## demo:
+https://dar1apetrova.github.io/quiz-app-on-vue/
+
+## using technologies:
 ```
 vue.js, vue cli 3
 bootstrap (via cdn)
