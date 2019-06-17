@@ -1,9 +1,11 @@
 # app
 ##using technologies:
+```
 vue.js, vue cli 3
 bootstrap (via cdn)
 animate.css (via cdn)
 fontawesome
+```
 
 ## Project setup
 ```
